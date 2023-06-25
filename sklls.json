@@ -1,6 +1,6 @@
 	{
-	   Postman: AutotestsIp,
-	   SQL: TheBasics,
-	   Python: TheBasics,
-	   XCode: BuildingIosApps,
+	   "Postman": "AutotestsIp",
+	   "SQL": "TheBasics",
+	   "Python": "TheBasics",
+	   "XCode": "BuildingIosApps"
 	}
