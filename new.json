@@ -1,7 +1,7 @@
       {
-	Name: Aydar,
-	Surname: Niyazov,
-	Patronymic: Galievich,
-	NumberOfPets: 0,
-	DesiredSalary: 700$,
+	"Name": "Aydar",
+	"Surname": "Niyazov",
+	"Patronymic": "Galievich",
+	"NumberOfPets": 0,
+	"DesiredSalary": "700$"
       } 		
